@@ -225,7 +225,6 @@ namespace CGlab01
             myGraphic.DrawLine(myPen3, 405, 200, 405, 180);
             myGraphic.DrawArc(myPen3, 405, 150, 20, 30, 270, 180);
             myGraphic.DrawLine(myPen3, 405, 150, 415, 150);
-            //myGraphic.DrawLine(myPen3, 305, 180, 315, 180);
             myGraphic.DrawLine(myPen3, 405, 180, 415, 200);
             myGraphic.DrawLine(myPen3, 415, 200, 425, 200);
             myGraphic.DrawLine(myPen3, 415, 180, 425, 200);
